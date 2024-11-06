@@ -1,3 +1,4 @@
+# Link to the published game builds: https://buff-pixel-studio.itch.io/the-midline
 # Research Study Documentation
 
 ## 6.1 Description of the Artefact

@@ -5,8 +5,8 @@
 
 The artefact is an interface that connects multiple wireless devices to a serious game developed in the Unity Game Engine. The purpose of the serious game is to supplement bilateral integration rehabilitation activities.
 
-**Figure 6-1: Client and Server Interfaces**
 ![Alt text](/Resources/client-server-interface.png?raw=true "Dashboard")
+**Figure 6-1: Client and Server Interfaces**
 
 The interface was developed in Unity Game Engine to connect multiple external wireless devices to a serious game. The server (serious game instance) allows clients to connect to the game by clicking the server button, as displayed in Figure 6-1 on the left-hand side. An event is invoked to fetch the local system IPv4 address to allow the client to connect via LAN. This, however, requires the client to be connected to the same Wi-Fi network.
 

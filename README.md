@@ -5,6 +5,7 @@
 The artefact is an interface that connects multiple wireless devices to a serious game developed in the Unity Game Engine. The purpose of the serious game is to supplement bilateral integration rehabilitation activities.
 
 **Figure 6-1: Client and Server Interfaces**
+![Alt text](/Resources/client-server-interface.png?raw=true "Dashboard")
 
 The interface was developed in Unity Game Engine to connect multiple external wireless devices to a serious game. The server (serious game instance) allows clients to connect to the game by clicking the server button, as displayed in Figure 6-1 on the left-hand side. An event is invoked to fetch the local system IPv4 address to allow the client to connect via LAN. This, however, requires the client to be connected to the same Wi-Fi network.
 
@@ -13,10 +14,13 @@ The client interface was also developed in Unity Game Engine, enabling external 
 The connection between the server and clients is established through the Unity Netcode for GameObject library, enabling multiplayer functionality. Unity’s server RPC is used to allow clients to invoke server methods, provided the server permits it. This setup enables clients to control the player’s movement with external mobile devices. The game requires three devices, each dedicated to a specific movement: left, right, or action.
 
 **Figure 6-2: Gameplay**
+![Alt text](/Resources/gameplay.png?raw=true "Dashboard")
 
 **Figure 6-3: Gameplay Shop**
+![Alt text](/Resources/gameplay-shop.png?raw=true "Dashboard")
 
 **Figure 6-4: Gameplay Data Analysis**
+![Alt text](/Resources/gameplay-data-analysis.png?raw=true "Dashboard")
 
 The serious game (Figure 6-2) supplements traditional therapy methods, encouraging activities like reading or bilateral movement exercises. The player and dog sprites move across the screen, encouraging the player to track these sprites with their eyes, thus mimicking left-to-right reading. Additionally, the wireless device can be moved horizontally or vertically, promoting free hand movement.
 

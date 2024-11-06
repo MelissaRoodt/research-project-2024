@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|c:\\users\\melis\\onedrive\\documentos\\github\\research-project-2024\\research-project-2024\\game\\doggydash\\assets\\scripts\\uilinerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uilinerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|c:\\users\\melis\\onedrive\\documentos\\github\\research-project-2024\\research-project-2024\\game\\doggydash\\assets\\scripts\\uigridrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uigridrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|c:\\users\\melis\\onedrive\\documentos\\github\\research-project-2024\\research-project-2024\\game\\doggydash\\assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|c:\\users\\melis\\onedrive\\documentos\\github\\research-project-2024\\research-project-2024\\game\\doggydash\\assets\\scripts\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|c:\\users\\melis\\onedrive\\documentos\\github\\research-project-2024\\research-project-2024\\game\\doggydash\\assets\\scripts\\playermovementtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovementtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|c:\\users\\melis\\onedrive\\documentos\\github\\research-project-2024\\research-project-2024\\game\\doggydash\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|c:\\users\\melis\\onedrive\\documentos\\github\\research-project-2024\\research-project-2024\\game\\doggydash\\assets\\scripts\\networkmanagerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\networkmanagerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|c:\\users\\melis\\onedrive\\documentos\\github\\research-project-2024\\research-project-2024\\game\\doggydash\\assets\\scripts\\networkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\networkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|c:\\users\\melis\\onedrive\\documentos\\github\\research-project-2024\\research-project-2024\\game\\doggydash\\assets\\scripts\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|c:\\users\\melis\\onedrive\\documentos\\github\\research-project-2024\\research-project-2024\\game\\doggydash\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|c:\\users\\melis\\onedrive\\documentos\\github\\research-project-2024\\research-project-2024\\game\\doggydash\\assets\\scripts\\doggypoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doggypoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|c:\\users\\melis\\onedrive\\documentos\\github\\research-project-2024\\research-project-2024\\game\\doggydash\\assets\\scripts\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|c:\\users\\melis\\onedrive\\documentos\\github\\research-project-2024\\research-project-2024\\game\\doggydash\\assets\\scripts\\dogai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dogai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|c:\\users\\melis\\onedrive\\documentos\\github\\research-project-2024\\research-project-2024\\game\\doggydash\\assets\\scripts\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|c:\\users\\melis\\onedrive\\documentos\\github\\research-project-2024\\research-project-2024\\game\\doggydash\\assets\\scripts\\bone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|c:\\users\\melis\\onedrive\\documentos\\github\\research-project-2024\\research-project-2024\\game\\doggydash\\assets\\scripts\\backgroundcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|c:\\users\\melis\\onedrive\\documentos\\github\\research-project-2024\\research-project-2024\\game\\doggydash\\assets\\scripts\\animatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2734940A-072B-3D96-E7D0-63B32AE541F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UILineRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\UILineRenderer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UILineRenderer.cs",
+              "ToolTip": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\UILineRenderer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UILineRenderer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:23:49.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIGridRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\UIGridRenderer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIGridRenderer.cs",
+              "ToolTip": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\UIGridRenderer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIGridRenderer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:21:04.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIController.cs",
+              "ToolTip": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\UIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwFoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:19:12.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\Shop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shop.cs",
+              "ToolTip": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\Shop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shop.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAYwHcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:13:39.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMovementTest.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\PlayerMovementTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovementTest.cs",
+              "ToolTip": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\PlayerMovementTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovementTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:12:11.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:07:54.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NetworkManagerUI.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\NetworkManagerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NetworkManagerUI.cs",
+              "ToolTip": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\NetworkManagerUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NetworkManagerUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:02:34.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NetworkController.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\NetworkController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NetworkController.cs",
+              "ToolTip": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\NetworkController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NetworkController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:50:40.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameTimer.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\GameTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameTimer.cs",
+              "ToolTip": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\GameTimer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameTimer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:42:44.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:37:13.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoggyPoints.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\DoggyPoints.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoggyPoints.cs",
+              "ToolTip": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\DoggyPoints.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoggyPoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:23:07.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DogController.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\DogController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DogController.cs",
+              "ToolTip": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\DogController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DogController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:09:49.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DogAI.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\DogAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DogAI.cs",
+              "ToolTip": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\DogAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DogAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:56:04.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\DataController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DataController.cs",
+              "ToolTip": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\DataController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:50:08.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Bone.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\Bone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bone.cs",
+              "ToolTip": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\Bone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:47:40.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BackgroundColor.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\BackgroundColor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundColor.cs",
+              "ToolTip": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\BackgroundColor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackgroundColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:37:25.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AnimatorController.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\AnimatorController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnimatorController.cs",
+              "ToolTip": "C:\\Users\\melis\\OneDrive\\Documentos\\Github\\Research-Project-2024\\Research-Project-2024\\Game\\DoggyDash\\Assets\\Scripts\\AnimatorController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnimatorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:34:54.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,14 +14,14 @@ The client interface was also developed in Unity Game Engine, enabling external 
 
 The connection between the server and clients is established through the Unity Netcode for GameObject library, enabling multiplayer functionality. Unity’s server RPC is used to allow clients to invoke server methods, provided the server permits it. This setup enables clients to control the player’s movement with external mobile devices. The game requires three devices, each dedicated to a specific movement: left, right, or action.
 
-**Figure 6-2: Gameplay**
 ![Alt text](/Resources/gameplay.png?raw=true "Dashboard")
+**Figure 6-2: Gameplay**
 
-**Figure 6-3: Gameplay Shop**
 ![Alt text](/Resources/gameplay-shop.png?raw=true "Dashboard")
+**Figure 6-3: Gameplay Shop**
 
-**Figure 6-4: Gameplay Data Analysis**
 ![Alt text](/Resources/gameplay-data-analysis.png?raw=true "Dashboard")
+**Figure 6-4: Gameplay Data Analysis**
 
 The serious game (Figure 6-2) supplements traditional therapy methods, encouraging activities like reading or bilateral movement exercises. The player and dog sprites move across the screen, encouraging the player to track these sprites with their eyes, thus mimicking left-to-right reading. Additionally, the wireless device can be moved horizontally or vertically, promoting free hand movement.
 
